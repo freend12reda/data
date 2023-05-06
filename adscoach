@@ -1,6 +1,6 @@
 {
-	"bstate": 1,
+	"rstate": 1,
 	"istate": 1,
-	"rewarded": "ca-app-pub-3940256099942544/5224354917",
+	"reward": "ca-app-pub-3940256099942544/5224354917",
 	"interstitial": "ca-app-pub-3940256099942544/1033173712"
 }
